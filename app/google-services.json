@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "841606131835",
+    "project_id": "vistagram-9e6f3",
+    "storage_bucket": "vistagram-9e6f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841606131835:android:695527c4791cf5b3d972de",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841606131835-svt17po1sppvmdsbjp6s9f8lhnfc74r6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeM9r2af_5wXlv8gaMmcqIiRlxqO0jvII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841606131835-svt17po1sppvmdsbjp6s9f8lhnfc74r6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
